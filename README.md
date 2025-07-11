@@ -44,3 +44,11 @@ The program will ask for:
 - Number of jobs (up to ~200)
 ### 5. View Results
 Jobs will be printed in the terminal and saved in job_searches/<role>_<location>_<timestamp>.csv
+
+## 🚀 Future Enhancements
+
+- ✅ Add support for filtering by **experience level**, **company**, or **industry**
+- 📊 Build a Streamlit or Flask dashboard for GUI-based exploration
+- 🔁 Add a resume parser to auto-match best job titles
+- 🧠 Integrate GPT to summarize and rank job postings by fit score
+- 📅 Add notification system for new postings over time
